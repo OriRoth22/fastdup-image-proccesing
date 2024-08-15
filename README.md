@@ -1,2 +1,3 @@
 # fastdup-image-proccesing
 using fastdup to analysis images library (unsupervised)
+fastdup is a powerful free tool designed to rapidly extract valuable insights from your image & video datasets. Assisting you to increase your dataset quality ...
